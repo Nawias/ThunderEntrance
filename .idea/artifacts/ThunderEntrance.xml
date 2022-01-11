@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThunderEntrance">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThunderEntrance</output-path>
+    <root id="archive" name="ThunderEntrance.jar">
+      <element id="module-output" name="ThunderEntrance" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
